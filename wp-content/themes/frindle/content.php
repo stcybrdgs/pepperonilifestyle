@@ -1,0 +1,62 @@
+<div class="post-block">
+<article class="post <?php if ( has_post_thumbnail() ) { ?> has-thumbnail <?php } ?>">
+		
+	<!-- post-thumnail -->
+	
+	<div class="post-thumbnail">
+			<a href="<?php the_permalink(); ?>"><?php if ( has_post_thumbnail() ) {
+					the_post_thumbnail('frindle-small-thumbnail');
+					} else { ?>
+					
+			<?php } ?></a>
+
+	</div>
+	<!-- /post-thumnail -->
+	<div class="data">
+
+		
+	<h2><?php if ( is_sticky() ) echo'<span class="thumb-icon"><i class="fa fa-sticky-note"></i></span>'; ?> <a href="<?php the_permalink(); ?>"> <?php the_title(); ?></a></h2>
+	
+	<p class="post-info"><div class="post-date"><i class="fa fa-calendar" style="font-size:14px"></i> <?php the_time( get_option( 'date_format' ) ); ?> </div>
+
+
+	 <div class="post-author"> <span class="diff">| </span><i class="fa fa-user" style="font-size:14px"></i><?php _e('by','frindle'); ?> <a href="<?php echo esc_url(get_author_posts_url(get_the_author_meta('ID'))); ?>"><?php the_author(); ?></a></div>
+
+	<div class="post-comment"> <span class="diff">|</span> <i class="fa fa-comments-o" style="font-size:14px"></i> <?php comments_popup_link( esc_html__( 'Leave a comment', 'frindle' ), esc_html__( '1 Comment', 'frindle' ), esc_html__( '% Comments', 'frindle' ) ); ?></div>
+					 
+	<?php if ( get_edit_post_link() ) : ?>
+	<div class="post-edit"> <span class="diff">|</span> <i class="fa fa-pencil-square-o" style="font-size:14px"></i>
+					 <?php edit_post_link( esc_html__( 'Edit', 'frindle' ) )?>
+	</div>
+	<?php endif; ?>		
+	</p>
+	</div>
+	
+	<div class="excerpt">
+	<?php if($post->post_excerpt) { ?>
+
+		<p>
+		<?php the_excerpt(); ?><br>
+		</p>
+
+	<?php } else {
+
+		the_content();
+
+	} ?>
+	<?php
+					wp_link_pages( array(
+						'before'            => '<div class="page-links">'.esc_html__( 'Pages:', 'frindle' ),
+						'after'             => '</div>',
+						'link_before'       => '<span>',
+						'link_after'        => '</span>',
+						'pagelink'          => '%',
+						'echo'              => 1
+		       		) );
+		    	?>
+	
+	</div>
+	
+
+</article>
+</div>

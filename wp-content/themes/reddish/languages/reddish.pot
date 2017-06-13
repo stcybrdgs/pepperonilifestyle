@@ -1,0 +1,355 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Reddish v1.5\n"
+"POT-Creation-Date: 2016-08-24 13:24+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: BestWebSoft <wp_theme@bestwebsoft.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:17
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:32
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:39
+msgid "Please give us your valuable comment"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:41
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:42
+msgid "Send My Comment"
+msgstr ""
+
+#: comments.php:43
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: content-page.php:14 content.php:59 content.php:67 image.php:73
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:19 content.php:81 image.php:26
+msgctxt "post edit link"
+msgid "Edit"
+msgstr ""
+
+#: content.php:18
+msgid "Featured post"
+msgstr ""
+
+#: content.php:26
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content.php:29 image.php:14
+msgid "Posted on"
+msgstr ""
+
+#: content.php:38
+msgctxt "in more than one categories"
+msgid "in "
+msgstr ""
+
+#: content.php:40
+msgctxt "in one category"
+msgid "in "
+msgstr ""
+
+#: content.php:43
+msgctxt "full stop before author name"
+msgid " "
+msgstr ""
+
+#: content.php:45
+msgctxt "author"
+msgid " by "
+msgstr ""
+
+#: content.php:65
+msgid "Continue reading..."
+msgstr ""
+
+#: content.php:75
+msgid "Tags: "
+msgstr ""
+
+#: content.php:79
+msgid "[Top]"
+msgstr ""
+
+#: content.php:84
+msgid "Leave a reply"
+msgstr ""
+
+#: footer.php:9
+msgid "Powered by WordPress and"
+msgstr ""
+
+#: footer.php:9
+msgid "Theme"
+msgstr ""
+
+#: functions.php:18
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:58
+msgid "Submit"
+msgstr ""
+
+#: functions.php:60
+msgid "Clear"
+msgstr ""
+
+#: functions.php:61
+msgid "File is not selected"
+msgstr ""
+
+#: functions.php:62
+msgid "File is selected"
+msgstr ""
+
+#: functions.php:63
+msgid "Choose file"
+msgstr ""
+
+#: functions.php:83
+msgid "Main sidebar"
+msgstr ""
+
+#: functions.php:84
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:108
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:110
+msgid "Edit"
+msgstr ""
+
+#: functions.php:124
+msgid "Post author"
+msgstr ""
+
+#: functions.php:130
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:134
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:139
+msgctxt "comment"
+msgid "Edit"
+msgstr ""
+
+#: functions.php:142
+msgid "Reply"
+msgstr ""
+
+#: functions.php:173
+msgid "Home"
+msgstr ""
+
+#: functions.php:192 functions.php:246 functions.php:275
+msgid "Page"
+msgstr ""
+
+#: functions.php:196
+#, php-format
+msgid "Category Archives:&thinsp;%s"
+msgstr ""
+
+#: functions.php:219
+#, php-format
+msgid "Tag Archives:&thinsp;%s"
+msgstr ""
+
+#: functions.php:222 functions.php:226 functions.php:230
+msgid "Archive for &thinsp;"
+msgstr ""
+
+#: functions.php:234
+msgid "Author&#8217;s Archive"
+msgstr ""
+
+#: functions.php:236
+msgid "Search Results"
+msgstr ""
+
+#: functions.php:238 no-results.php:10
+msgid "Page not found"
+msgstr ""
+
+#: functions.php:285
+msgid "Previous"
+msgstr ""
+
+#: functions.php:286
+msgid "Next"
+msgstr ""
+
+#: functions.php:303
+msgid "Image Slider"
+msgstr ""
+
+#: functions.php:317
+msgid "Mark this post for Image slider"
+msgstr ""
+
+#: functions.php:319
+msgid "Mark this page for Image slider"
+msgstr ""
+
+#: functions.php:321
+msgid "Mark this post (page) for Image slider"
+msgstr ""
+
+#: functions.php:328
+msgid "Depending on the settings of the slider marked Post (Page) or to be displayed or will not be displayed"
+msgstr ""
+
+#: functions.php:432
+msgid "Read more"
+msgstr ""
+
+#: functions.php:436
+msgid "Featured image has not been uploaded"
+msgstr ""
+
+#: functions.php:461
+msgid "Slider Settings"
+msgstr ""
+
+#: functions.php:462
+msgid "Choose where to display the slider"
+msgstr ""
+
+#: functions.php:474
+msgid "Display slider on the Front Page"
+msgstr ""
+
+#: functions.php:487
+msgid "Display slider on all single Posts"
+msgstr ""
+
+#: functions.php:500
+msgid "Display slider on all single Pages"
+msgstr ""
+
+#: functions.php:513
+msgid "Display slider on all other pages (Search, Archives, 404 Page Not Found etc.)"
+msgstr ""
+
+#: functions.php:526
+msgid "Choose what to display in the slider"
+msgstr ""
+
+#: functions.php:531
+msgid "Display checked Posts and Pages"
+msgstr ""
+
+#: functions.php:532
+msgid "Do not display checked Posts and Pages"
+msgstr ""
+
+#: functions.php:533
+msgid "Display all Posts and Pages"
+msgstr ""
+
+#: functions.php:545
+msgid "Display only Posts and Pages which have a featured image"
+msgstr ""
+
+#: image.php:17
+#, php-format
+msgid "<span class=\"color\"> %1$s </span> at <a href=\"%2$s\" title=\"Link to full-size image\">%3$s&times;%4$s</a> in <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%7$s</a>."
+msgstr ""
+
+#: image.php:79
+msgid "&larr; Previous image"
+msgstr ""
+
+#: image.php:80
+msgid "Next image &rarr;"
+msgstr ""
+
+#: no-results.php:12 search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:20
+msgid "We&rsquo;re very sorry, but the page you requested has not been found!"
+msgstr ""
+
+#: no-results.php:21
+msgid "You could try searching the website for the content you were looking for."
+msgstr ""
+
+#: no-results.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search Site..."
+msgstr ""

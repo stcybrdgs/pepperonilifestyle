@@ -1,0 +1,12 @@
+1.0.1   - Fixed permalink escaping
+        - Fixed font prefixing
+        - Fixed sidebar logic issues
+        - Fixed missed translation issues
+        - Removed .png screenshot
+        - Removed old IE support scripts
+        - Fixed file loading
+        - Fixed php function prefixing
+        - Removed social sharing
+        - Fixed date format
+
+1.0.0  - Initial Launch

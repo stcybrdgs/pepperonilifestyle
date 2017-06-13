@@ -1,0 +1,452 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: smartpress\n"
+"POT-Creation-Date: 2017-01-18 10:02+0300\n"
+"PO-Revision-Date: 2017-01-18 10:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:49
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/customizer-library.php:98
+msgid "Panel Examples"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/customizer-library.php:106
+msgid "Panel Section"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/customizer-library.php:113
+msgid "Example Text Input"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:42
+msgid "Colors & Typography"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:50
+msgid "Primary Font"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:59
+msgid "Header Font"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:69
+msgid "Body Text Color"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:77
+msgid "Links Color"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:85
+msgid "Links Hover and Focus Color"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:95
+msgid "General Settings"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:101
+msgid "Show site description in the navbar"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:114
+msgid "Home Blog Entries"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:127
+msgid "Show Lightbox on Blog Posts"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:138
+msgid "Social Links"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:144
+msgid "Youtube URL"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:151
+msgid "Facebook URL"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:157
+msgid "Twitter URL"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:164
+msgid "Google Plus URL"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:170
+msgid "Pinterest URL"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:177
+msgid "Instagram URL"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:184
+msgid "Dribble URL"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:191
+msgid "Flikr"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:198
+msgid "Paypal"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:205
+msgid "Delicious"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:212
+msgid "Digg"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:219
+msgid "Linkedin"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:226
+msgid "Github"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:233
+msgid "Reddit"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:240
+msgid "Last Fm"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:247
+msgid "Tumblr"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:254
+msgid "Stumbleupon"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:261
+msgid "Skype"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:269
+msgid "Vimeo"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:276
+msgid "Behance"
+msgstr ""
+
+#: LNT-framework/customizer/customizer-options.php:283
+msgid "Email"
+msgstr ""
+
+#: LNT-framework/functions/lnt-sidebars.php:11
+msgid "Primary Sidebar"
+msgstr ""
+
+#: LNT-framework/functions/lnt-sidebars.php:13
+msgid "Primary sidebar widget area"
+msgstr ""
+
+#: LNT-framework/functions/lnt-sidebars.php:21
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: LNT-framework/functions/lnt-sidebars.php:23
+msgid "Secondary sidebar widget area"
+msgstr ""
+
+#: LNT-framework/functions/lnt-template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: LNT-framework/functions/lnt-template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: LNT-framework/functions/lnt-template-tags.php:50
+#: LNT-framework/functions/lnt-template-tags.php:56 views/entry-audio.php:53
+#: views/entry-gallery.php:103 views/entry-video.php:103 views/entry.php:78
+msgid ", "
+msgstr ""
+
+#: LNT-framework/functions/lnt-template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: LNT-framework/functions/lnt-template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: LNT-framework/functions/lnt-template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: LNT-framework/functions/lnt-template-tags.php:72 views/entry-page.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: archive.php:37 index.php:41 search.php:34
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:38 index.php:42 search.php:35
+msgid "Next page"
+msgstr ""
+
+#: archive.php:39 index.php:43 search.php:36
+msgid "Page"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:31
+#, php-format
+msgid "&copy; %1$s"
+msgstr ""
+
+#: footer.php:32
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: footer.php:33
+msgid " All Rights Reserved &nbsp;&nbsp;"
+msgstr ""
+
+#: footer.php:38
+#, php-format
+msgid "Theme %1$s by %2$s."
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content.php:33 views/single-entry.php:50
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:38 views/entry-page.php:22
+#: views/single-entry.php:55
+msgid "Pages:"
+msgstr ""
+
+#: views/entry-audio.php:16 views/entry-gallery.php:18 views/entry-quote.php:16
+#: views/entry-video.php:16 views/entry.php:16
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: views/entry-audio.php:39 views/entry-gallery.php:76 views/entry-quote.php:37
+#: views/entry-video.php:77 views/entry.php:52
+#, php-format
+msgid "Permalink to: %1$s"
+msgstr ""
+
+#: views/entry-audio.php:55 views/entry-gallery.php:105
+#: views/entry-video.php:105 views/entry.php:80
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#: views/entry-gallery.php:89 views/entry-video.php:89 views/entry.php:64
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: views/entry-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: views/entry-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: views/entry-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: views/entry-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: views/post-nav.php:32
+msgid "&larr;  Previous Story"
+msgstr ""
+
+#: views/post-nav.php:56
+msgid "Next Story &rarr;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "smartpress"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http:/level9themes.com/smartpress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A content-driven fully responsive and multipurpose WordPress blogging Theme. "
+"SimplePress provides plenty of customization possibilities like access to "
+"all Google Fonts, unlimited colors, logo and favicon upload and much more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Level9themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://level9themes.com"
+msgstr ""

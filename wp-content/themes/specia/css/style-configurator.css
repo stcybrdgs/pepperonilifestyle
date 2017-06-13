@@ -1,0 +1,41 @@
+.layout_active, .bg_pattern_active, .selected_img{
+	border: 1px solid #ff0000 !important;
+    border-radius: 2px;
+}
+li#customize-control-wide_boxed label {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+li#customize-control-wide_boxed label img {
+	border: solid 1px #1c314c;
+}
+
+li#customize-control-bg_pattern label {
+	margin-left: 5px;
+    margin-right: 6px;
+}
+
+li#customize-control-bg_pattern label img{
+	width: 45px;
+	height: 45px;
+	border: solid 1px #ccc;
+}
+
+li#customize-control-theme_color label {
+	margin-left: 5px;
+    margin-right: 10px;
+}
+
+
+#customize-control-checkbox label, .customize-control-radio label {
+    display: inline-block;
+    line-height: 20px;
+    margin-left: 28px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+#customize-control-wide_boxed input[type="radio"], #customize-control-bg_pattern input[type="radio"], #customize-control-theme_color input[type="radio"] {
+	display:none !important;
+}
